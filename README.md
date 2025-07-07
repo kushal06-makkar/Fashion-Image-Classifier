@@ -5,6 +5,7 @@ A simple implementation of a Fashion MNIST image classification model built usin
 The dataset used is Fashion MNIST by Zalando Research, which consists of 28x28 grayscale images of clothing items categorized into 10 classes such as shirts, shoes, bags, etc.
 
 🔗 Download the dataset on Kaggle
+Data Set link : https://www.kaggle.com/datasets/zalando-research/fashionmnist?resource=download&select=fashion-mnist_train.csv
 
 🛠️ Features
 Built entirely using Python and NumPy
