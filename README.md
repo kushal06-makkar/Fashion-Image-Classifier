@@ -18,22 +18,6 @@ Trains on .csv version of the dataset (from Kaggle)
 
 Predicts clothing categories from pixel data
 
-🚀 Getting Started
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/kushal06-makkar/Fashion-Image-Classifier.git
-cd Fashion-Image-Classifier
-Install dependencies (only numpy needed)
-
-bash
-Copy
-Edit
-pip install numpy
-Run the notebook or script to train the model
-
 📌 Notes
 This is an educational project intended to demonstrate how machine learning works at a low level.
 
